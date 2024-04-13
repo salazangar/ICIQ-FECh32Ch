@@ -1,5 +1,4 @@
-# ICIQ-FECh32Ch
-## TerraInsight: Inclusive Agricultural Planning and Sustainable Land Management
+# TerraInsight: Inclusive Agricultural Planning and Sustainable Land Management
 
 This project aims to leverage geospatial data from satellite imagery to analyze land qualities, and also data from weather reports to predict crop yields. By utilizing machine learning models and geospatial analysis techniques, the project provides insights into crop performance and suggests suitable crops for specific regions based on historical data and current environmental conditions.
 
